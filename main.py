@@ -1,5 +1,5 @@
 '''
-QR Code Join
+QR Code Join Meetings
 '''
 
 import requests
