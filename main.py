@@ -1,5 +1,6 @@
 '''
 QR Code Join Meetings
+Credits to NTT Germany for the original idea
 '''
 
 import requests
