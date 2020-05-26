@@ -1,7 +1,5 @@
 '''
-Created on 14.11.2019
-
-@author: sven.fabricius
+QR Code Join
 '''
 
 import requests
